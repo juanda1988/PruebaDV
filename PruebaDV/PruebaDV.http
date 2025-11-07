@@ -1,0 +1,6 @@
+@PruebaDV_HostAddress = http://localhost:5234
+
+GET {{PruebaDV_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
