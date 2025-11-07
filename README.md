@@ -1,4 +1,4 @@
-# 🎟️ TicketAPI (C# .NET 8 + SQL Server + Docker)
+# 🎟️ TicketAPI (C# .NET 8 + SQL Server)
 
 ## 🚀 Cómo ejecutar
 
